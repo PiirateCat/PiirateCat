@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiirateCat
-- 👀 I’m interested in IPTV
+- 👀 I’m interested in Intranet Web Design
 - 🌱 I’m currently learning HTML
 - 📫 How to reach me piratecat@duck.com
 
