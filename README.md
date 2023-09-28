@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiirateCat
 - 👀 I’m interested in IPTV
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML
 - 📫 How to reach me piratecat@duck.com
 
 <!---
