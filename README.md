@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiirateCat
-- 👀 I’m interested in HTML5
+- 👀 I’m interested in HTML
 - 🌱 I’m currently learning HTML
 - 📫 How to reach me piratecat@duck.com
 
